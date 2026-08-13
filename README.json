@@ -1,0 +1,560 @@
+{
+  "items": [
+    {
+      "description": "Every package is currently maintained. Any package without an update for 2-3 years is deleted.",
+      "items": [],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "guzlehttp/psr7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-05T19:56:57Z",
+            "owner": "guzzle",
+            "repo": "psr7",
+            "stars": 7935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nyholm/psr7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-28T13:47:42Z",
+            "owner": "Nyholm",
+            "repo": "psr7",
+            "stars": 1277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laminas/laminas-diactoros",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T05:49:01Z",
+            "owner": "laminas",
+            "repo": "laminas-diactoros",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slim/http",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-01T18:00:54Z",
+            "owner": "slimphp",
+            "repo": "Slim-Http",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpsoft/http-message",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-22T11:40:33Z",
+            "owner": "httpsoft",
+            "repo": "http-message",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sunrise/http-message",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-20T20:45:17Z",
+            "owner": "sunrise-php",
+            "repo": "http-message",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "PSR-7 implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "relay/relay",
+          "description": "A PSR-15 request handler for both PSR-15 and callable middleware; use it with any framework or container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-10-22T19:54:05Z",
+            "owner": "relayphp",
+            "repo": "Relay.Relay",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mindplay/middleman",
+          "description": "Dead simple PSR-15 / PSR-7 middleware dispatcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-31T09:55:32Z",
+            "owner": "mindplay-dk",
+            "repo": "middleman",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laminas/laminas-stratigility",
+          "description": "Build and dispatch middleware pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T05:04:18Z",
+            "owner": "laminas",
+            "repo": "laminas-stratigility",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oscarotero/middleland",
+          "description": "Another PSR-15 dispatcher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-13T09:57:21Z",
+            "owner": "oscarotero",
+            "repo": "middleland",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpsoft/http-runner",
+          "description": "Running PSR-7 components and building PSR-15 middleware pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-12-29T23:18:05Z",
+            "owner": "httpsoft",
+            "repo": "http-runner",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Dispatcher"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sunrise/http-router",
+          "description": "HTTP Router based on PSR-7 and PSR-15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-12T16:46:14Z",
+            "owner": "sunrise-php",
+            "repo": "http-router",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/fast-route",
+          "description": "Use FastRoute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "fast-route",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jasny/switch-route",
+          "description": "Generate a PHP script for faster routing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-03T20:44:26Z",
+            "owner": "jasny",
+            "repo": "switch-route",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/aura-router",
+          "description": "Use Aura.Router.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-10T13:56:47Z",
+            "owner": "middlewares",
+            "repo": "aura-router",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpsoft/http-router",
+          "description": "Simple and fast HTTP request router providing PSR-7 and PSR-15.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-12-29T22:52:54Z",
+            "owner": "httpsoft",
+            "repo": "http-router",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Router"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "middlewares/http-authentication",
+          "description": "HTTP Basic and Digest access authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "http-authentication",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/csp",
+          "description": "Manage Content-Security-Policies (CSP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "csp",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/honeypot",
+          "description": "Block spam bots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-13T09:40:59Z",
+            "owner": "middlewares",
+            "repo": "honeypot",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/cors",
+          "description": "Manage Cross-Origin Resource Sharing (CORS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "cors",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/recaptcha",
+          "description": "Use Google's reCAPTCHA for spam prevention.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "recaptcha",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ellipsephp/cookie-encryption",
+          "description": "Encrypt cookies with a key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-05-01T12:58:16Z",
+            "owner": "ellipsephp",
+            "repo": "cookie-encryption",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Storageless JWT Session",
+          "description": "Manage sessions without I/O usage (JWT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T19:57:37Z",
+            "owner": "psr7-sessions",
+            "repo": "storageless",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhpSession",
+          "description": "Manage sessions using PHP's native session API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-05T12:04:43Z",
+            "owner": "middlewares",
+            "repo": "php-session",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kodus/session",
+          "description": "Manage sessions in a simple way without the use of PHP's native session handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-27T09:18:50Z",
+            "owner": "kodus",
+            "repo": "session",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuraSession",
+          "description": "Manage sessions using Aura.Session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-13T10:07:02Z",
+            "owner": "middlewares",
+            "repo": "aura-session",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Session"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "middlewares/whoops",
+          "description": "Use Whoops as error handler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-27T11:33:49Z",
+            "owner": "middlewares",
+            "repo": "whoops",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/error-handler",
+          "description": "Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-27T10:57:34Z",
+            "owner": "middlewares",
+            "repo": "error-handler",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/error-response",
+          "description": "Easily create HTTP errors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "error-response",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/json-exception-handler",
+          "description": "Handle errors ideally for your API using JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:08Z",
+            "owner": "middlewares",
+            "repo": "json-exception-handler",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Errors management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "middlewares/debugbar",
+          "description": "Use PHP Debug Bar for your development environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "debugbar",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kodus/chrome-logger",
+          "description": "A well-designed alternative to the original ChromeLogger for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-25T10:29:08Z",
+            "owner": "kodus",
+            "repo": "chrome-logger",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "middlewares/negotiation",
+          "description": "Manage content negotiations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:50:49Z",
+            "owner": "middlewares",
+            "repo": "negotiation",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/minifier",
+          "description": "Minify Html, CSS and Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "minifier",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "middlewares/encoder",
+          "description": "Compress responses with gzencode or gzdeflate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-26T14:44:07Z",
+            "owner": "middlewares",
+            "repo": "encoder",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Content"
+    },
+    {
+      "description": "Awesome PSR-15 Middlewares © 2016-2025 by Middlewares Organization is licensed under Creative Commons Attribution 4.0 International.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:50:52.965Z",
+    "original_repository": "middlewares/awesome-psr15-middlewares",
+    "original_repository_sha": "5618a8e3b872a7257c259d237b5fd2fd16ee7a56",
+    "enhanced_repository": "enhansome/enhansome-psr15-middlewares",
+    "enhanced_repository_description": null,
+    "title": "Awesome PSR-15 Middlewares with stars"
+  }
+}
