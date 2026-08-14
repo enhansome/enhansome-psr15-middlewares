@@ -33,7 +33,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,277 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
 * [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 555 | 🐛 33 | 🌐 PHP | 📅 2026-08-10
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 10 | 🌐 PHP | 📅 2026-01-01
-* [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 85 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
+* [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 86 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
 * [sunrise/http-message](https://github.com/sunrise-php/http-message) ⭐ 16 | 🐛 2 | 🌐 PHP | 📅 2026-04-20
 
 ### Dispatcher
@@ -63,7 +63,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Session
 
-* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-08-13 - Manage sessions without I/O usage (JWT).
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-08-14 - Manage sessions without I/O usage (JWT).
 * [PhpSession](https://github.com/middlewares/php-session) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2025-04-05 - Manage sessions using PHP's native session API.
 * [kodus/session](https://github.com/kodus/session) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-03-27 - Manage sessions in a simple way without the use of PHP's native session handling.
 * [AuraSession](https://github.com/middlewares/aura-session) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session) ⭐ 206 | 🐛 4 | 🌐 PHP | 📅 2026-07-18.
@@ -102,4 +102,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
