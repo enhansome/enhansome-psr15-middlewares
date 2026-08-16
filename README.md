@@ -55,9 +55,9 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### Security
 
 * [middlewares/http-authentication](https://github.com/middlewares/http-authentication) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - HTTP [Basic](https://en.wikipedia.org/wiki/Basic_access_authentication) and [Digest](https://en.wikipedia.org/wiki/Digest_access_authentication) access authentication.
-* [middlewares/csp](https://github.com/middlewares/csp) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Content-Security-Policies (CSP)](https://content-security-policy.com/).
+* [middlewares/csp](https://github.com/middlewares/csp) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Content-Security-Policies (CSP)](https://content-security-policy.com/).
 * [middlewares/honeypot](https://github.com/middlewares/honeypot) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Block spam bots.
-* [middlewares/cors](https://github.com/middlewares/cors) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/).
+* [middlewares/cors](https://github.com/middlewares/cors) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/).
 * [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,571 | 🐛 6 | 🌐 PHP | 📅 2026-04-28 for spam prevention.
 * [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2023-05-01 - Encrypt cookies with a key
 
@@ -70,7 +70,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,234 | 🐛 9 | 🌐 PHP | 📅 2026-05-06 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,233 | 🐛 9 | 🌐 PHP | 📅 2026-08-16 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -92,7 +92,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ## Links of interest
 
-* [PSR-15 Middlewares by Middlewares Organization](https://github.com/middlewares/psr15-middlewares) ⭐ 410 | 🐛 0 | 📅 2025-04-05
+* [PSR-15 Middlewares by Middlewares Organization](https://github.com/middlewares/psr15-middlewares) ⭐ 409 | 🐛 0 | 📅 2025-04-05
 
 ## License
 
@@ -102,4 +102,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
