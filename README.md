@@ -29,7 +29,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### PSR-7 implementations
 
-* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,935 | 🐛 2 | 🌐 PHP | 📅 2026-08-05
+* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,934 | 🐛 3 | 🌐 PHP | 📅 2026-08-05
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,277 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
 * [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 555 | 🐛 32 | 🌐 PHP | 📅 2026-08-18
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 10 | 🌐 PHP | 📅 2026-01-01
@@ -70,7 +70,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,235 | 🐛 9 | 🌐 PHP | 📅 2026-08-16 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,234 | 🐛 9 | 🌐 PHP | 📅 2026-08-16 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -102,4 +102,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
