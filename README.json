@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 31295421,
                 "language": "PHP",
-                "last_commit": "2026-08-05T19:56:57Z",
+                "last_commit": "2026-08-23T23:22:33Z",
                 "owner": "guzzle",
                 "repo": "psr7",
                 "stars": 7935
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-18T09:56:41Z",
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
-                "stars": 556
+                "stars": 557
               }
             },
             {
@@ -372,7 +372,7 @@
                 "archived": false,
                 "id": 42022232,
                 "language": "PHP",
-                "last_commit": "2026-08-17T14:45:41Z",
+                "last_commit": "2026-08-23T08:40:04Z",
                 "owner": "psr7-sessions",
                 "repo": "storageless",
                 "stars": 650
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:27:44.047Z",
+    "last_updated": "2026-08-23T23:27:51.553Z",
     "original_repository": "middlewares/awesome-psr15-middlewares",
     "original_repository_id": 73777315,
     "original_repository_sha": "5618a8e3b872a7257c259d237b5fd2fd16ee7a56",
