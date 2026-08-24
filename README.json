@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PSR-15 HTTP Middleware",
+          "description": "The current standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1053270,
+            "language": null,
+            "last_commit": "2026-07-03T10:58:13Z",
+            "owner": "php-fig",
+            "repo": "fig-standards",
+            "stars": 12517
+          }
+        }
+      ],
+      "title": "References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dependency Inversion and PSR-7 Bodies",
+          "description": "Conclusion that double-pass flaws cannot be resolved without HTTP Factories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139746987,
+            "language": "Ruby",
+            "last_commit": "2024-08-02T01:58:38Z",
+            "owner": "shadowhand",
+            "repo": "blog.shadowhand.me",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
       "description": "Every package is currently maintained. Any package without an update for 2-3 years is deleted.",
       "items": [
         {
@@ -14,7 +56,7 @@
                 "archived": false,
                 "id": 31295421,
                 "language": "PHP",
-                "last_commit": "2026-08-23T23:22:33Z",
+                "last_commit": "2026-08-24T11:03:20Z",
                 "owner": "guzzle",
                 "repo": "psr7",
                 "stars": 7935
@@ -44,7 +86,7 @@
                 "archived": false,
                 "id": 231147753,
                 "language": "PHP",
-                "last_commit": "2026-08-18T09:56:41Z",
+                "last_commit": "2026-08-24T08:55:42Z",
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
                 "stars": 557
@@ -583,13 +625,35 @@
           "description": null,
           "node_type": "group",
           "title": "Content"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "middlewares/geolocation",
+              "description": "Geolocate requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70470976,
+                "language": "PHP",
+                "last_commit": "2025-08-05T12:10:23Z",
+                "owner": "middlewares",
+                "repo": "geolocation",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:27:51.553Z",
+    "last_updated": "2026-08-24T14:27:32.307Z",
     "original_repository": "middlewares/awesome-psr15-middlewares",
     "original_repository_id": 73777315,
     "original_repository_sha": "5618a8e3b872a7257c259d237b5fd2fd16ee7a56",
