@@ -15,7 +15,7 @@
             "last_commit": "2026-07-03T10:58:13Z",
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12517
+            "stars": 12516
           }
         }
       ],
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:57.896Z",
+    "last_updated": "2026-08-25T23:30:55.363Z",
     "original_repository": "middlewares/awesome-psr15-middlewares",
     "original_repository_id": 73777315,
     "original_repository_sha": "5618a8e3b872a7257c259d237b5fd2fd16ee7a56",

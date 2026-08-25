@@ -1,6 +1,6 @@
 # Awesome PSR-15 Middlewares with stars
 
-> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,517 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
+> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,516 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
 Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperability Group (*FIG*).
 
@@ -14,13 +14,13 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## References
 
-* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,517 | 🐛 14 | 📅 2026-07-03 - The current standard.
+* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,516 | 🐛 14 | 📅 2026-07-03 - The current standard.
 * [PHP Framework Interoperability Group website](http://www.php-fig.org/)
 * [psr/http-server-middleware](https://packagist.org/packages/psr/http-server-middleware) - Composer package of common interfaces for PSR-15 HTTP Middlewares.
 
 ## Articles
 
-* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,517 | 🐛 14 | 📅 2026-07-03.
+* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,516 | 🐛 14 | 📅 2026-07-03.
 * [PSR-7 Objects Are Not Immutable](http://andrewcarteruk.github.io/programming/2016/05/22/psr-7-is-not-immutable.html) - Description of a serious flaw with the double-pass style of middlewares.
 
 ## Packages
