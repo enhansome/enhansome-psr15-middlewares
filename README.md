@@ -63,7 +63,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Session
 
-* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-08-26 - Manage sessions without I/O usage (JWT).
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-08-27 - Manage sessions without I/O usage (JWT).
 * [PhpSession](https://github.com/middlewares/php-session) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2025-04-05 - Manage sessions using PHP's native session API.
 * [kodus/session](https://github.com/kodus/session) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-03-27 - Manage sessions in a simple way without the use of PHP's native session handling.
 * [AuraSession](https://github.com/middlewares/aura-session) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session) ⭐ 206 | 🐛 4 | 🌐 PHP | 📅 2026-07-18.
