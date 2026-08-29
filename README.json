@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standards either proposed or approved by the Framework Interop Group",
+            "homepage": "http://www.php-fig.org/",
             "id": 1053270,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T10:58:13Z",
+            "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12516
+            "stars": 12516,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Musings of shadowhand",
+            "homepage": "https://blog.shadowhand.me",
             "id": 139746987,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-08-02T01:58:38Z",
+            "open_issues": 1,
             "owner": "shadowhand",
             "repo": "blog.shadowhand.me",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
         }
@@ -56,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-7 HTTP message library",
+                "homepage": null,
                 "id": 31295421,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:03:20Z",
+                "open_issues": 2,
                 "owner": "guzzle",
                 "repo": "psr7",
-                "stars": 7935
+                "stars": 7935,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -72,12 +87,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A super lightweight PSR-7 implementation",
+                "homepage": null,
                 "id": 63238907,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-28T13:47:42Z",
+                "open_issues": 5,
                 "owner": "Nyholm",
                 "repo": "psr7",
-                "stars": 1277
+                "stars": 1277,
+                "topics": [
+                  "psr-17",
+                  "psr-7"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -88,12 +111,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR HTTP Message implementations",
+                "homepage": "https://docs.laminas.dev/laminas-diactoros/",
                 "id": 231147753,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T08:55:42Z",
+                "open_issues": 32,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
-                "stars": 558
+                "stars": 560,
+                "topics": [
+                  "http-message",
+                  "psr-17",
+                  "psr-7"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -104,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of PSR-7 object decorators providing useful convenience methods",
+                "homepage": null,
                 "id": 48505457,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-01T18:00:54Z",
+                "open_issues": 10,
                 "owner": "slimphp",
                 "repo": "Slim-Http",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -120,12 +157,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strict and fast implementation of PSR-7 and PSR-17",
+                "homepage": "https://httpsoft.org/docs/message",
                 "id": 289504725,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-05-22T11:40:33Z",
+                "open_issues": 0,
                 "owner": "httpsoft",
                 "repo": "http-message",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "http",
+                  "http-message",
+                  "php",
+                  "psr-17",
+                  "psr-7",
+                  "request-response"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -136,12 +185,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP message implementation based on PSR-7, PSR-17 and RFC-7230.",
+                "homepage": "https://dev.sunrise-studio.io/docs/packages/sunrise/http-message/",
                 "id": 157214888,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-20T20:45:17Z",
+                "open_issues": 2,
                 "owner": "sunrise-php",
                 "repo": "http-message",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "http",
+                  "psr-17",
+                  "psr-7",
+                  "request",
+                  "response",
+                  "rfc-7230"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -159,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PSR-15 server request handler.",
+                "homepage": "http://relayphp.com",
                 "id": 36936114,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-10-22T19:54:05Z",
+                "open_issues": 0,
                 "owner": "relayphp",
                 "repo": "Relay.Relay",
-                "stars": 330
+                "stars": 330,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -175,12 +241,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dead simple PSR-15 / PSR-7 middleware dispatcher",
+                "homepage": null,
                 "id": 45645249,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-08-31T09:55:32Z",
+                "open_issues": 1,
                 "owner": "mindplay-dk",
                 "repo": "middleman",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "dispatcher",
+                  "middleware",
+                  "php7",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -191,12 +267,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-7 middleware foundation for building and dispatching middleware pipelines",
+                "homepage": "https://docs.laminas.dev/laminas-stratigility/",
                 "id": 231152566,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-17T05:41:21Z",
+                "open_issues": 3,
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "middleware",
+                  "psr-7"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -207,12 +291,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple PSR-15 middleware dispatcher",
+                "homepage": null,
                 "id": 67400237,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-13T09:57:21Z",
+                "open_issues": 0,
                 "owner": "oscarotero",
                 "repo": "middleland",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "dispatcher",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -223,12 +317,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Running PSR-7 components and building PSR-15 middleware pipelines",
+                "homepage": "https://httpsoft.org/docs/runner",
                 "id": 292030632,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-12-29T23:18:05Z",
+                "open_issues": 0,
                 "owner": "httpsoft",
                 "repo": "http-runner",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "http",
+                  "http-middleware",
+                  "middleware-pipeline",
+                  "php",
+                  "psr-15",
+                  "psr-7"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -246,12 +352,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful solution as the foundation of your project.",
+                "homepage": "https://dev.sunrise-studio.io/docs/packages/sunrise/http-router/",
                 "id": 161002423,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-12T16:46:14Z",
+                "open_issues": 7,
                 "owner": "sunrise-php",
                 "repo": "http-router",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "api-platform",
+                  "api-skeleton",
+                  "http",
+                  "http-router",
+                  "openapi",
+                  "php",
+                  "php-skeleton",
+                  "psr-router",
+                  "router",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -262,12 +384,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to use FastRoute",
+                "homepage": null,
                 "id": 70397123,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "fast-route",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "fastroute",
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -278,12 +411,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a PHP script for faster routing :rocket:",
+                "homepage": null,
                 "id": 197259337,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-09-03T20:44:26Z",
+                "open_issues": 1,
                 "owner": "jasny",
                 "repo": "switch-route",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "php7",
+                  "psr-15",
+                  "psr-7",
+                  "router",
+                  "routing"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -294,12 +438,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to use Aura.Router",
+                "homepage": null,
                 "id": 69786176,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-07-10T13:56:47Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "aura-router",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "aura",
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -310,12 +465,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and fast HTTP request router providing PSR-7 and PSR-15",
+                "homepage": "https://httpsoft.org/docs/router",
                 "id": 294142961,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-12-29T22:52:54Z",
+                "open_issues": 1,
                 "owner": "httpsoft",
                 "repo": "http-router",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "http",
+                  "http-router",
+                  "php",
+                  "psr-15",
+                  "psr-7",
+                  "route",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -333,12 +501,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to implement Basic and Digest Http authentication",
+                "homepage": null,
                 "id": 69787161,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "http-authentication",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "basic-authentication",
+                  "digest-authentication",
+                  "http",
+                  "http-authentication",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -349,12 +529,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to add the Content-Security-Policy header to the response",
+                "homepage": null,
                 "id": 70392275,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "csp",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "csp",
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -365,12 +556,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to implement a honeypot spam prevention",
+                "homepage": null,
                 "id": 70400443,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-13T09:40:59Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "honeypot",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "honeypot",
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "security",
+                  "spam-protection"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -381,12 +584,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to implement Cross-Origin Resource Sharing (CORS)",
+                "homepage": null,
                 "id": 70394396,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "cors",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cors",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -397,12 +610,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to use Google reCAPTCHA for spam prevention",
+                "homepage": null,
                 "id": 70466346,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 1,
                 "owner": "middlewares",
                 "repo": "recaptcha",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "http",
+                  "middleware",
+                  "prevention",
+                  "psr-15",
+                  "recaptcha",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -413,12 +638,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Psr-15 middleware allowing to encrypt cookies using defuse/php-encryption",
+                "homepage": "https://github.com/ellipsephp/cookie-encryption",
                 "id": 111228631,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-05-01T12:58:16Z",
+                "open_issues": 1,
                 "owner": "ellipsephp",
                 "repo": "cookie-encryption",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cookie",
+                  "encryption",
+                  "middleware",
+                  "psr-15",
+                  "psr-7"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -436,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":mailbox_with_mail: storage-less PSR-7 session support",
+                "homepage": null,
                 "id": 42022232,
                 "language": "PHP",
-                "last_commit": "2026-08-28T01:40:57Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T08:07:18Z",
+                "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
-                "stars": 650
+                "stars": 650,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -452,12 +693,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to create a php session using the request data",
+                "homepage": null,
                 "id": 70328778,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-05T12:04:43Z",
+                "open_issues": 1,
                 "owner": "middlewares",
                 "repo": "php-session",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "session"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -468,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Session abstraction for PSR-7 / PSR-15 middleware backed by PSR-16 cache",
+                "homepage": null,
                 "id": 89067676,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-03-27T09:18:50Z",
+                "open_issues": 1,
                 "owner": "kodus",
                 "repo": "session",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -484,12 +740,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to manage sessions using Aura.Session",
+                "homepage": null,
                 "id": 70323376,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-13T10:07:02Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "aura-session",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "aura-session",
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "session"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -507,12 +774,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to use Whoops as error handler",
+                "homepage": null,
                 "id": 69791262,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-27T11:33:49Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "whoops",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "error-handling",
+                  "http",
+                  "middleware",
+                  "psr-15",
+                  "whoops"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -523,12 +801,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to handle HTTP errors",
+                "homepage": null,
                 "id": 69866777,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-04-27T10:57:34Z",
+                "open_issues": 2,
                 "owner": "middlewares",
                 "repo": "error-handler",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "error",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -539,12 +827,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware to create responses with error status code (4xx-5xx)",
+                "homepage": null,
                 "id": 205672331,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 1,
                 "owner": "middlewares",
                 "repo": "error-response",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "error-response",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -555,12 +853,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware to catch exceptions and output them as JSON",
+                "homepage": null,
                 "id": 151672565,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:08Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "json-exception-handler",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "exception",
+                  "handler",
+                  "json",
+                  "middleware",
+                  "php",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -578,12 +888,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to insert PHP DebugBar automatically in html responses",
+                "homepage": null,
                 "id": 70315705,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "debugbar",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "debugbar",
+                  "debugger",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -594,12 +915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-3 and PSR-7 compliant alternative to the original ChromeLogger for PHP",
+                "homepage": null,
                 "id": 70796587,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-06-25T10:29:08Z",
+                "open_issues": 1,
                 "owner": "kodus",
                 "repo": "chrome-logger",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -617,12 +943,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to implement content negotiation",
+                "homepage": null,
                 "id": 69752287,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:50:49Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "negotiation",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "content-negotiation",
+                  "http",
+                  "middleware",
+                  "negotiation",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -633,12 +970,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Middleware to minify Html, CSS and Javascript responses",
+                "homepage": null,
                 "id": 70502889,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 2,
                 "owner": "middlewares",
                 "repo": "minifier",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "compress",
+                  "http",
+                  "middleware",
+                  "minify",
+                  "psr-15",
+                  "uglify"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             },
@@ -649,12 +998,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to encode the response body to gzip or deflate",
+                "homepage": null,
                 "id": 70580342,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-26T14:44:07Z",
+                "open_issues": 2,
                 "owner": "middlewares",
                 "repo": "encoder",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "compression",
+                  "deflate",
+                  "gzip",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -672,12 +1033,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR-15 middleware to geolocate the client using the ip address",
+                "homepage": null,
                 "id": 70470976,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-08-05T12:10:23Z",
+                "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "geolocation",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "geolocation",
+                  "http",
+                  "middleware",
+                  "psr-15"
+                ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
             }
@@ -691,15 +1062,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:50:58.235Z",
+    "last_updated": "2026-08-29T04:06:31.303Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
+      "homepage": null,
       "id": 73777315,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-25T09:53:36Z",
+      "open_issues": 0,
       "owner": "middlewares",
       "repo": "awesome-psr15-middlewares",
-      "stars": 343
+      "stars": 344,
+      "topics": [
+        "awesome-list",
+        "http",
+        "middleware",
+        "psr-15"
+      ]
     },
     "original_repository_sha": "5618a8e3b872a7257c259d237b5fd2fd16ee7a56",
     "enhanced_repository": "enhansome/enhansome-psr15-middlewares",
