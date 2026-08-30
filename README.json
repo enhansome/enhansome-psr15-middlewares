@@ -116,7 +116,7 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-24T08:55:42Z",
+                "last_commit": "2026-08-29T17:04:57Z",
                 "open_issues": 32,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:45.512Z",
+    "last_updated": "2026-08-30T01:11:38.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
