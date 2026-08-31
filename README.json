@@ -116,11 +116,11 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T17:04:57Z",
-                "open_issues": 32,
+                "last_commit": "2026-08-30T22:25:35Z",
+                "open_issues": 31,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
-                "stars": 560,
+                "stars": 561,
                 "topics": [
                   "http-message",
                   "psr-17",
@@ -677,7 +677,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-28T08:07:18Z",
+                "last_commit": "2026-08-30T18:04:46Z",
                 "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:11:38.864Z",
+    "last_updated": "2026-08-31T01:18:59.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
