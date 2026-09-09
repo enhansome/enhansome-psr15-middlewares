@@ -166,7 +166,7 @@
                 "open_issues": 0,
                 "owner": "httpsoft",
                 "repo": "http-message",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "http",
                   "http-message",
@@ -272,7 +272,7 @@
                 "id": 231152566,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T06:25:14Z",
+                "last_commit": "2026-09-08T22:52:41Z",
                 "open_issues": 3,
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
@@ -357,7 +357,7 @@
                 "id": 161002423,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-03T06:15:45Z",
+                "last_commit": "2026-09-08T13:27:19Z",
                 "open_issues": 7,
                 "owner": "sunrise-php",
                 "repo": "http-router",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:05:12.085Z",
+    "last_updated": "2026-09-09T01:09:03.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
