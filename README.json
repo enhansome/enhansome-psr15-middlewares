@@ -96,7 +96,7 @@
                 "open_issues": 5,
                 "owner": "Nyholm",
                 "repo": "psr7",
-                "stars": 1277,
+                "stars": 1278,
                 "topics": [
                   "psr-17",
                   "psr-7"
@@ -677,8 +677,8 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-05T06:12:07Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-10T00:11:46Z",
+                "open_issues": 4,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
                 "stars": 650,
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:09:03.761Z",
+    "last_updated": "2026-09-10T00:57:21.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
