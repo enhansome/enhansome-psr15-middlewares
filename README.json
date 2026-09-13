@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12515,
+            "stars": 12514,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -117,7 +117,7 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-07T04:50:53Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
                 "stars": 560,
@@ -677,7 +677,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-11T05:42:21Z",
+                "last_commit": "2026-09-12T22:01:29Z",
                 "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:00:22.071Z",
+    "last_updated": "2026-09-13T00:47:02.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
