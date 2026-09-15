@@ -96,7 +96,7 @@
                 "open_issues": 5,
                 "owner": "Nyholm",
                 "repo": "psr7",
-                "stars": 1278,
+                "stars": 1277,
                 "topics": [
                   "psr-17",
                   "psr-7"
@@ -116,7 +116,7 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T04:50:53Z",
+                "last_commit": "2026-09-14T05:56:50Z",
                 "open_issues": 34,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
@@ -272,7 +272,7 @@
                 "id": 231152566,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T22:52:41Z",
+                "last_commit": "2026-09-14T06:51:22Z",
                 "open_issues": 3,
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
@@ -677,7 +677,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-13T01:59:54Z",
+                "last_commit": "2026-09-14T06:42:44Z",
                 "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:53:06.635Z",
+    "last_updated": "2026-09-15T01:20:12.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
