@@ -30,7 +30,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### PSR-7 implementations
 
 * [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,934 | 🐛 2 | 🌐 PHP | 📅 2026-08-24
-* [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,277 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
+* [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,278 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
 * [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 560 | 🐛 33 | 🌐 PHP | 📅 2026-09-15
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 10 | 🌐 PHP | 📅 2026-01-01
 * [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 87 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
@@ -40,7 +40,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 * [relay/relay](https://github.com/relayphp/Relay.Relay) ⭐ 330 | 🐛 0 | 🌐 PHP | 📅 2024-10-22 - A PSR-15 request handler for both PSR-15 *and* callable middleware; use it with any framework or container.
 * [mindplay/middleman](https://github.com/mindplay-dk/middleman) ⭐ 92 | 🐛 1 | 🌐 PHP | 📅 2024-08-31 - Dead simple PSR-15 / PSR-7 middleware dispatcher.
-* [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ⭐ 58 | 🐛 3 | 🌐 PHP | 📅 2026-09-14 - Build and dispatch middleware pipelines.
+* [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ⭐ 58 | 🐛 3 | 🌐 PHP | 📅 2026-09-18 - Build and dispatch middleware pipelines.
 * [oscarotero/middleland](https://github.com/oscarotero/middleland) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Another PSR-15 dispatcher
 * [httpsoft/http-runner](https://github.com/httpsoft/http-runner) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2024-12-29 - Running PSR-7 components and building PSR-15 middleware pipelines.
 
@@ -58,7 +58,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 * [middlewares/csp](https://github.com/middlewares/csp) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Content-Security-Policies (CSP)](https://content-security-policy.com/).
 * [middlewares/honeypot](https://github.com/middlewares/honeypot) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Block spam bots.
 * [middlewares/cors](https://github.com/middlewares/cors) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/).
-* [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,577 | 🐛 6 | 🌐 PHP | 📅 2026-04-28 for spam prevention.
+* [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,578 | 🐛 6 | 🌐 PHP | 📅 2026-04-28 for spam prevention.
 * [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2023-05-01 - Encrypt cookies with a key
 
 ### Session
@@ -70,7 +70,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,233 | 🐛 8 | 🌐 PHP | 📅 2026-09-05 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,233 | 🐛 8 | 🌐 PHP | 📅 2026-09-18 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -102,4 +102,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
