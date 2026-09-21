@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12515,
+            "stars": 12516,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:55:25.221Z",
+    "last_updated": "2026-09-21T00:57:52.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
