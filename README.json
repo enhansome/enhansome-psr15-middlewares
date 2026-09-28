@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12517,
+            "stars": 12516,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -96,7 +96,7 @@
                 "open_issues": 5,
                 "owner": "Nyholm",
                 "repo": "psr7",
-                "stars": 1279,
+                "stars": 1278,
                 "topics": [
                   "psr-17",
                   "psr-7"
@@ -116,11 +116,11 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T06:09:54Z",
+                "last_commit": "2026-09-28T00:26:00Z",
                 "open_issues": 33,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
-                "stars": 560,
+                "stars": 559,
                 "topics": [
                   "http-message",
                   "psr-17",
@@ -272,7 +272,7 @@
                 "id": 231152566,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T06:39:50Z",
+                "last_commit": "2026-09-28T00:31:49Z",
                 "open_issues": 3,
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
@@ -677,7 +677,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-26T22:02:17Z",
+                "last_commit": "2026-09-27T22:00:55Z",
                 "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:16:54.430Z",
+    "last_updated": "2026-09-28T01:30:34.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
