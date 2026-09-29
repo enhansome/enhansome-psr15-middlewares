@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12516,
+            "stars": 12517,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "guzzle",
                 "repo": "psr7",
-                "stars": 7933,
+                "stars": 7934,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -117,7 +117,7 @@
                 "language": "PHP",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-28T00:26:00Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
                 "stars": 559,
@@ -272,7 +272,7 @@
                 "id": 231152566,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T00:31:49Z",
+                "last_commit": "2026-09-28T04:47:37Z",
                 "open_issues": 3,
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
@@ -615,7 +615,7 @@
                 "id": 70466346,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2025-03-26T14:44:07Z",
+                "last_commit": "2026-09-28T16:59:08Z",
                 "open_issues": 1,
                 "owner": "middlewares",
                 "repo": "recaptcha",
@@ -677,7 +677,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-27T22:00:55Z",
+                "last_commit": "2026-09-28T19:13:20Z",
                 "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:30:34.060Z",
+    "last_updated": "2026-09-29T02:32:34.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
