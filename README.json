@@ -62,7 +62,7 @@
             {
               "node_type": "item",
               "title": "guzlehttp/psr7",
-              "description": null,
+              "description": "guzzle/psr7",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -83,7 +83,7 @@
             {
               "node_type": "item",
               "title": "nyholm/psr7",
-              "description": null,
+              "description": "Nyholm/psr7",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "laminas/laminas-diactoros",
-              "description": null,
+              "description": "laminas/laminas-diactoros",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -132,7 +132,7 @@
             {
               "node_type": "item",
               "title": "slim/http",
-              "description": null,
+              "description": "slimphp/Slim-Http",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -153,7 +153,7 @@
             {
               "node_type": "item",
               "title": "httpsoft/http-message",
-              "description": null,
+              "description": "httpsoft/http-message",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -181,7 +181,7 @@
             {
               "node_type": "item",
               "title": "sunrise/http-message",
-              "description": null,
+              "description": "sunrise-php/http-message",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:50:56.975Z",
+    "last_updated": "2026-10-03T05:01:13.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
