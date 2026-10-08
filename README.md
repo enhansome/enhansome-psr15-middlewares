@@ -63,14 +63,14 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Session
 
-* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-10-06 - Manage sessions without I/O usage (JWT).
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 3 | 🌐 PHP | 📅 2026-10-07 - Manage sessions without I/O usage (JWT).
 * [PhpSession](https://github.com/middlewares/php-session) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2025-04-05 - Manage sessions using PHP's native session API.
 * [kodus/session](https://github.com/kodus/session) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-03-27 - Manage sessions in a simple way without the use of PHP's native session handling.
 * [AuraSession](https://github.com/middlewares/aura-session) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session) ⭐ 206 | 🐛 2 | 🌐 PHP | 📅 2026-09-29.
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,232 | 🐛 7 | 🌐 PHP | 📅 2026-10-03 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,231 | 🐛 7 | 🌐 PHP | 📅 2026-10-03 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -102,4 +102,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
