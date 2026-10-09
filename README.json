@@ -75,7 +75,7 @@
                 "open_issues": 3,
                 "owner": "guzzle",
                 "repo": "psr7",
-                "stars": 7934,
+                "stars": 7933,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -116,8 +116,8 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T17:07:25Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-08T13:20:22Z",
+                "open_issues": 30,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
                 "stars": 559,
@@ -142,7 +142,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-01-01T18:00:54Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "slimphp",
                 "repo": "Slim-Http",
                 "stars": 151,
@@ -272,7 +272,7 @@
                 "id": 231152566,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T04:22:57Z",
+                "last_commit": "2026-10-08T13:21:55Z",
                 "open_issues": 3,
                 "owner": "laminas",
                 "repo": "laminas-stratigility",
@@ -677,7 +677,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:47:35Z",
+                "last_commit": "2026-10-09T01:21:34Z",
                 "open_issues": 3,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:37:44.460Z",
+    "last_updated": "2026-10-09T02:52:58.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
