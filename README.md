@@ -29,7 +29,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### PSR-7 implementations
 
-* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,933 | 🐛 3 | 🌐 PHP | 📅 2026-08-24
+* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,932 | 🐛 3 | 🌐 PHP | 📅 2026-08-24
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,279 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
 * [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 31 | 🌐 PHP | 📅 2026-10-12
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 11 | 🌐 PHP | 📅 2026-01-01
@@ -47,7 +47,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### Router
 
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 7 | 🌐 PHP | 📅 2026-09-08 - HTTP Router based on PSR-7 and PSR-15
-* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,269 | 🐛 28 | 🌐 PHP | 📅 2026-07-09.
+* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,268 | 🐛 27 | 🌐 PHP | 📅 2026-07-09.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
 * [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 501 | 🐛 3 | 🌐 PHP | 📅 2026-09-09.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
@@ -70,7 +70,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,230 | 🐛 7 | 🌐 PHP | 📅 2026-10-03 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,229 | 🐛 7 | 🌐 PHP | 📅 2026-10-03 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -102,4 +102,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
