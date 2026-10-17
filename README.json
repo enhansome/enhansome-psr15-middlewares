@@ -657,6 +657,32 @@
                 ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Guard-Core/psr15-guard",
+              "description": "PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PSR-15 middleware adapter for guard-core-php - universal PSR-7/PSR-15 security middleware for the guard-core PHP engine",
+                "homepage": "https://guard-core.github.io/psr15-guard/",
+                "id": 1377708226,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-17T01:00:13Z",
+                "open_issues": 0,
+                "owner": "Guard-Core",
+                "repo": "psr15-guard",
+                "stars": 1,
+                "topics": [
+                  "api",
+                  "php",
+                  "psr-15",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-10-17T01:12:56.372Z"
             }
           ],
           "description": null,
@@ -677,7 +703,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-14T19:12:00Z",
+                "last_commit": "2026-10-16T13:43:05Z",
                 "open_issues": 7,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1062,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:07:45.304Z",
+    "last_updated": "2026-10-17T01:12:56.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
@@ -1070,7 +1096,7 @@
       "id": 73777315,
       "language": null,
       "license": null,
-      "last_commit": "2025-04-25T09:53:36Z",
+      "last_commit": "2026-10-16T10:07:18Z",
       "open_issues": 0,
       "owner": "middlewares",
       "repo": "awesome-psr15-middlewares",
@@ -1082,7 +1108,7 @@
         "psr-15"
       ]
     },
-    "original_repository_sha": "5618a8e3b872a7257c259d237b5fd2fd16ee7a56",
+    "original_repository_sha": "22d0e456c9bde3b4f1716cd9fead08fa819203f0",
     "enhanced_repository": "enhansome/enhansome-psr15-middlewares",
     "enhanced_repository_description": null,
     "title": "Awesome PSR-15 Middlewares with stars"
