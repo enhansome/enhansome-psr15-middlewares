@@ -1,6 +1,6 @@
 # Awesome PSR-15 Middlewares with stars
 
-> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
+> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
 Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperability Group (*FIG*).
 
@@ -14,13 +14,13 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## References
 
-* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03 - The current standard.
+* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03 - The current standard.
 * [PHP Framework Interoperability Group website](http://www.php-fig.org/)
 * [psr/http-server-middleware](https://packagist.org/packages/psr/http-server-middleware) - Composer package of common interfaces for PSR-15 HTTP Middlewares.
 
 ## Articles
 
-* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03.
+* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03.
 * [PSR-7 Objects Are Not Immutable](http://andrewcarteruk.github.io/programming/2016/05/22/psr-7-is-not-immutable.html) - Description of a serious flaw with the double-pass style of middlewares.
 
 ## Packages
@@ -31,7 +31,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 * [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,932 | 🐛 4 | 🌐 PHP | 📅 2026-10-18
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,279 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
-* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 31 | 🌐 PHP | 📅 2026-10-12
+* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 32 | 🌐 PHP | 📅 2026-10-19
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 11 | 🌐 PHP | 📅 2026-01-01
 * [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 87 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
 * [sunrise/http-message](https://github.com/sunrise-php/http-message) ⭐ 16 | 🐛 2 | 🌐 PHP | 📅 2026-04-20
@@ -40,14 +40,14 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 * [relay/relay](https://github.com/relayphp/Relay.Relay) ⭐ 330 | 🐛 0 | 🌐 PHP | 📅 2024-10-22 - A PSR-15 request handler for both PSR-15 *and* callable middleware; use it with any framework or container.
 * [mindplay/middleman](https://github.com/mindplay-dk/middleman) ⭐ 92 | 🐛 1 | 🌐 PHP | 📅 2024-08-31 - Dead simple PSR-15 / PSR-7 middleware dispatcher.
-* [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ⭐ 58 | 🐛 3 | 🌐 PHP | 📅 2026-10-12 - Build and dispatch middleware pipelines.
+* [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ⭐ 58 | 🐛 3 | 🌐 PHP | 📅 2026-10-19 - Build and dispatch middleware pipelines.
 * [oscarotero/middleland](https://github.com/oscarotero/middleland) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Another PSR-15 dispatcher
 * [httpsoft/http-runner](https://github.com/httpsoft/http-runner) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2024-12-29 - Running PSR-7 components and building PSR-15 middleware pipelines.
 
 ### Router
 
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 7 | 🌐 PHP | 📅 2026-09-08 - HTTP Router based on PSR-7 and PSR-15
-* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,268 | 🐛 27 | 🌐 PHP | 📅 2026-07-09.
+* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,269 | 🐛 27 | 🌐 PHP | 📅 2026-07-09.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
 * [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 501 | 🐛 3 | 🌐 PHP | 📅 2026-09-09.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
@@ -71,7 +71,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,229 | 🐛 7 | 🌐 PHP | 📅 2026-10-18 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,228 | 🐛 7 | 🌐 PHP | 📅 2026-10-18 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -103,4 +103,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
