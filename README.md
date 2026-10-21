@@ -31,7 +31,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 * [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,932 | 🐛 4 | 🌐 PHP | 📅 2026-10-18
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,279 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
-* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 32 | 🌐 PHP | 📅 2026-10-19
+* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 32 | 🌐 PHP | 📅 2026-10-20
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 11 | 🌐 PHP | 📅 2026-01-01
 * [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 87 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
 * [sunrise/http-message](https://github.com/sunrise-php/http-message) ⭐ 16 | 🐛 2 | 🌐 PHP | 📅 2026-04-20
@@ -47,7 +47,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### Router
 
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 7 | 🌐 PHP | 📅 2026-09-08 - HTTP Router based on PSR-7 and PSR-15
-* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,269 | 🐛 27 | 🌐 PHP | 📅 2026-07-09.
+* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,269 | 🐛 26 | 🌐 PHP | 📅 2026-07-09.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
 * [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 11 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 501 | 🐛 3 | 🌐 PHP | 📅 2026-09-09.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
@@ -60,7 +60,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 * [middlewares/cors](https://github.com/middlewares/cors) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/).
 * [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2026-09-28 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,579 | 🐛 0 | 🌐 PHP | 📅 2026-09-23 for spam prevention.
 * [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2023-05-01 - Encrypt cookies with a key
-* [Guard-Core/psr15-guard](https://github.com/Guard-Core/psr15-guard) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-10-17 - PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
+* [Guard-Core/psr15-guard](https://github.com/Guard-Core/psr15-guard) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-10-20 - PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ### Session
 
@@ -103,4 +103,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
