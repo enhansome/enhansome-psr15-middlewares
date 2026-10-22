@@ -31,7 +31,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 * [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,932 | 🐛 4 | 🌐 PHP | 📅 2026-10-18
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,279 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
-* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 32 | 🌐 PHP | 📅 2026-10-20
+* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 33 | 🌐 PHP | 📅 2026-10-21
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 11 | 🌐 PHP | 📅 2026-01-01
 * [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 87 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
 * [sunrise/http-message](https://github.com/sunrise-php/http-message) ⭐ 16 | 🐛 2 | 🌐 PHP | 📅 2026-04-20
@@ -40,7 +40,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 * [relay/relay](https://github.com/relayphp/Relay.Relay) ⭐ 330 | 🐛 0 | 🌐 PHP | 📅 2024-10-22 - A PSR-15 request handler for both PSR-15 *and* callable middleware; use it with any framework or container.
 * [mindplay/middleman](https://github.com/mindplay-dk/middleman) ⭐ 92 | 🐛 1 | 🌐 PHP | 📅 2024-08-31 - Dead simple PSR-15 / PSR-7 middleware dispatcher.
-* [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ⭐ 58 | 🐛 3 | 🌐 PHP | 📅 2026-10-19 - Build and dispatch middleware pipelines.
+* [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ⭐ 58 | 🐛 3 | 🌐 PHP | 📅 2026-10-21 - Build and dispatch middleware pipelines.
 * [oscarotero/middleland](https://github.com/oscarotero/middleland) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Another PSR-15 dispatcher
 * [httpsoft/http-runner](https://github.com/httpsoft/http-runner) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2024-12-29 - Running PSR-7 components and building PSR-15 middleware pipelines.
 
@@ -60,18 +60,18 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 * [middlewares/cors](https://github.com/middlewares/cors) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/).
 * [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2026-09-28 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,579 | 🐛 0 | 🌐 PHP | 📅 2026-09-23 for spam prevention.
 * [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2023-05-01 - Encrypt cookies with a key
-* [Guard-Core/psr15-guard](https://github.com/Guard-Core/psr15-guard) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-10-20 - PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
+* [Guard-Core/psr15-guard](https://github.com/Guard-Core/psr15-guard) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-10-21 - PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ### Session
 
-* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 7 | 🌐 PHP | 📅 2026-10-17 - Manage sessions without I/O usage (JWT).
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 650 | 🐛 7 | 🌐 PHP | 📅 2026-10-21 - Manage sessions without I/O usage (JWT).
 * [PhpSession](https://github.com/middlewares/php-session) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2025-04-05 - Manage sessions using PHP's native session API.
 * [kodus/session](https://github.com/kodus/session) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-03-27 - Manage sessions in a simple way without the use of PHP's native session handling.
 * [AuraSession](https://github.com/middlewares/aura-session) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session) ⭐ 206 | 🐛 2 | 🌐 PHP | 📅 2026-09-29.
 
 ### Errors management
 
-* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,228 | 🐛 7 | 🌐 PHP | 📅 2026-10-18 as error handler.
+* [middlewares/whoops](https://github.com/middlewares/whoops) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2025-04-27 - Use [Whoops](https://github.com/filp/whoops) ⭐ 13,227 | 🐛 7 | 🌐 PHP | 📅 2026-10-18 as error handler.
 * [middlewares/error-handler](https://github.com/middlewares/error-handler) ⭐ 14 | 🐛 2 | 🌐 PHP | 📅 2025-04-27 - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
 * [middlewares/error-response](https://github.com/middlewares/error-response) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2025-03-26 - Easily create HTTP errors.
 * [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Handle errors ideally for your API using JSON.
@@ -103,4 +103,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
