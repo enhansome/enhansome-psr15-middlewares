@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12514,
+            "stars": 12513,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -72,7 +72,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-18T16:24:44Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "guzzle",
                 "repo": "psr7",
                 "stars": 7931,
@@ -96,7 +96,7 @@
                 "open_issues": 5,
                 "owner": "Nyholm",
                 "repo": "psr7",
-                "stars": 1279,
+                "stars": 1278,
                 "topics": [
                   "psr-17",
                   "psr-7"
@@ -229,7 +229,7 @@
                 "open_issues": 0,
                 "owner": "relayphp",
                 "repo": "Relay.Relay",
-                "stars": 330,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -326,7 +326,7 @@
                 "open_issues": 0,
                 "owner": "httpsoft",
                 "repo": "http-runner",
-                "stars": 14,
+                "stars": 13,
                 "topics": [
                   "http",
                   "http-middleware",
@@ -393,7 +393,7 @@
                 "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "fast-route",
-                "stars": 95,
+                "stars": 94,
                 "topics": [
                   "fastroute",
                   "http",
@@ -447,7 +447,7 @@
                 "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "aura-router",
-                "stars": 11,
+                "stars": 10,
                 "topics": [
                   "aura",
                   "http",
@@ -510,7 +510,7 @@
                 "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "http-authentication",
-                "stars": 34,
+                "stars": 33,
                 "topics": [
                   "basic-authentication",
                   "digest-authentication",
@@ -703,11 +703,11 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-23T00:32:19Z",
+                "last_commit": "2026-10-23T08:54:48Z",
                 "open_issues": 7,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
-                "stars": 650,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -728,7 +728,7 @@
                 "open_issues": 1,
                 "owner": "middlewares",
                 "repo": "php-session",
-                "stars": 15,
+                "stars": 14,
                 "topics": [
                   "http",
                   "middleware",
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:22:23.353Z",
+    "last_updated": "2026-10-24T01:27:57.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
@@ -1100,7 +1100,7 @@
       "open_issues": 0,
       "owner": "middlewares",
       "repo": "awesome-psr15-middlewares",
-      "stars": 344,
+      "stars": 343,
       "topics": [
         "awesome-list",
         "http",
