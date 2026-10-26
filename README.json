@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12512,
+            "stars": 12513,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -670,7 +670,7 @@
                 "id": 1377708226,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-21T17:08:32Z",
+                "last_commit": "2026-10-25T18:38:06Z",
                 "open_issues": 0,
                 "owner": "Guard-Core",
                 "repo": "psr15-guard",
@@ -703,7 +703,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-25T00:49:42Z",
+                "last_commit": "2026-10-25T18:02:16Z",
                 "open_issues": 7,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:58:32.484Z",
+    "last_updated": "2026-10-26T01:04:52.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
