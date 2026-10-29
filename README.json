@@ -75,7 +75,7 @@
                 "open_issues": 4,
                 "owner": "guzzle",
                 "repo": "psr7",
-                "stars": 7930,
+                "stars": 7929,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -703,7 +703,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-28T01:01:17Z",
+                "last_commit": "2026-10-29T00:53:53Z",
                 "open_issues": 7,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1088,7 +1088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:06:04.874Z",
+    "last_updated": "2026-10-29T02:16:04.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
