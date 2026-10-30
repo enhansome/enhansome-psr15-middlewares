@@ -116,7 +116,7 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-26T20:12:57Z",
+                "last_commit": "2026-10-29T20:18:30Z",
                 "open_issues": 33,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
@@ -486,6 +486,38 @@
                 ]
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
+            },
+            {
+              "node_type": "item",
+              "title": "delolmo/symfony-router",
+              "description": "Use symfony/routing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PSR-15 middleware that matches requests with symfony/routing and stores the route attributes in the PSR-7 request.",
+                "homepage": "https://packagist.org/packages/delolmo/symfony-router",
+                "id": 150946964,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-29T14:20:30Z",
+                "open_issues": 0,
+                "owner": "delolmo",
+                "repo": "symfony-router",
+                "stars": 7,
+                "topics": [
+                  "http",
+                  "middleware",
+                  "php",
+                  "psr-15",
+                  "psr-17",
+                  "psr-7",
+                  "router",
+                  "routing",
+                  "symfony",
+                  "symfony-routing"
+                ]
+              },
+              "first_seen": "2026-10-30T02:29:26.876Z"
             }
           ],
           "description": null,
@@ -703,7 +735,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-29T00:53:53Z",
+                "last_commit": "2026-10-30T01:26:49Z",
                 "open_issues": 7,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1088,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:16:04.779Z",
+    "last_updated": "2026-10-30T02:29:26.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
@@ -1096,7 +1128,7 @@
       "id": 73777315,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-16T10:07:18Z",
+      "last_commit": "2026-10-29T10:07:12Z",
       "open_issues": 0,
       "owner": "middlewares",
       "repo": "awesome-psr15-middlewares",
@@ -1108,7 +1140,7 @@
         "psr-15"
       ]
     },
-    "original_repository_sha": "22d0e456c9bde3b4f1716cd9fead08fa819203f0",
+    "original_repository_sha": "421a3191d085f01799151b1f221f90e1b3eeae9d",
     "enhanced_repository": "enhansome/enhansome-psr15-middlewares",
     "enhanced_repository_description": null,
     "title": "Awesome PSR-15 Middlewares with stars"
