@@ -49,9 +49,9 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 7 | 🌐 PHP | 📅 2026-09-08 - HTTP Router based on PSR-7 and PSR-15
 * [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 94 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,267 | 🐛 26 | 🌐 PHP | 📅 2026-07-09.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
-* [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 500 | 🐛 4 | 🌐 PHP | 📅 2026-09-09.
+* [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 500 | 🐛 3 | 🌐 PHP | 📅 2026-10-31.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
-* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-10-29 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,612 | 🐛 0 | 🌐 PHP | 📅 2026-10-28.
+* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-10-29 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,613 | 🐛 0 | 🌐 PHP | 📅 2026-10-28.
 
 ### Security
 
@@ -104,4 +104,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
