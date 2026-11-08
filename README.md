@@ -29,7 +29,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### PSR-7 implementations
 
-* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,928 | 🐛 4 | 🌐 PHP | 📅 2026-10-18
+* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,929 | 🐛 4 | 🌐 PHP | 📅 2026-10-18
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,277 | 🐛 5 | 🌐 PHP | 📅 2025-11-28
 * [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 559 | 🐛 38 | 🌐 PHP | 📅 2026-11-06
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 11 | 🌐 PHP | 📅 2026-01-01
@@ -47,11 +47,11 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### Router
 
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 8 | 🌐 PHP | 📅 2026-11-02 - HTTP Router based on PSR-7 and PSR-15
-* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 94 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,270 | 🐛 29 | 🌐 PHP | 📅 2026-07-09.
+* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,270 | 🐛 29 | 🌐 PHP | 📅 2026-07-09.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
 * [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 499 | 🐛 3 | 🌐 PHP | 📅 2026-10-31.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
-* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-11-02 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,613 | 🐛 0 | 🌐 PHP | 📅 2026-11-06.
+* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-11-02 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,614 | 🐛 0 | 🌐 PHP | 📅 2026-11-07.
 
 ### Security
 
@@ -104,4 +104,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

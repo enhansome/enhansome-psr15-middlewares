@@ -75,7 +75,7 @@
                 "open_issues": 4,
                 "owner": "guzzle",
                 "repo": "psr7",
-                "stars": 7928,
+                "stars": 7929,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -393,7 +393,7 @@
                 "open_issues": 0,
                 "owner": "middlewares",
                 "repo": "fast-route",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "fastroute",
                   "http",
@@ -735,7 +735,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-07T00:43:42Z",
+                "last_commit": "2026-11-07T10:01:45Z",
                 "open_issues": 4,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:38:54.633Z",
+    "last_updated": "2026-11-08T02:14:35.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
