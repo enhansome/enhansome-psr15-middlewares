@@ -116,11 +116,11 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T22:11:04Z",
+                "last_commit": "2026-11-16T04:59:19Z",
                 "open_issues": 39,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
-                "stars": 557,
+                "stars": 556,
                 "topics": [
                   "http-message",
                   "psr-17",
@@ -229,7 +229,7 @@
                 "open_issues": 0,
                 "owner": "relayphp",
                 "repo": "Relay.Relay",
-                "stars": 330,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:39:45.960Z",
+    "last_updated": "2026-11-17T05:00:24.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
