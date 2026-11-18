@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12514,
+            "stars": 12515,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:58.235Z"
@@ -71,11 +71,11 @@
                 "id": 31295421,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-13T03:06:02Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-18T02:51:25Z",
+                "open_issues": 2,
                 "owner": "guzzle",
                 "repo": "psr7",
-                "stars": 7927,
+                "stars": 7926,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:50:58.235Z"
@@ -116,7 +116,7 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T04:59:19Z",
+                "last_commit": "2026-11-17T06:25:16Z",
                 "open_issues": 39,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
@@ -702,7 +702,7 @@
                 "id": 1377708226,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-09T04:00:54Z",
+                "last_commit": "2026-11-17T23:00:15Z",
                 "open_issues": 0,
                 "owner": "Guard-Core",
                 "repo": "psr15-guard",
@@ -735,7 +735,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-15T23:06:33Z",
+                "last_commit": "2026-11-17T19:44:32Z",
                 "open_issues": 6,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:00:24.093Z",
+    "last_updated": "2026-11-18T04:06:04.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
