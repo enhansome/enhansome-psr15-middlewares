@@ -71,8 +71,8 @@
                 "id": 31295421,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-21T01:59:19Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-22T02:43:25Z",
+                "open_issues": 1,
                 "owner": "guzzle",
                 "repo": "psr7",
                 "stars": 7926,
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:52:30.445Z",
+    "last_updated": "2026-11-22T02:56:28.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
