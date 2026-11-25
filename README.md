@@ -1,6 +1,6 @@
 # Awesome PSR-15 Middlewares with stars
 
-> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
+> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
 Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperability Group (*FIG*).
 
@@ -14,13 +14,13 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## References
 
-* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03 - The current standard.
+* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03 - The current standard.
 * [PHP Framework Interoperability Group website](http://www.php-fig.org/)
 * [psr/http-server-middleware](https://packagist.org/packages/psr/http-server-middleware) - Composer package of common interfaces for PSR-15 HTTP Middlewares.
 
 ## Articles
 
-* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03.
+* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03.
 * [PSR-7 Objects Are Not Immutable](http://andrewcarteruk.github.io/programming/2016/05/22/psr-7-is-not-immutable.html) - Description of a serious flaw with the double-pass style of middlewares.
 
 ## Packages
@@ -29,9 +29,9 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 
 ### PSR-7 implementations
 
-* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,926 | 🐛 0 | 🌐 PHP | 📅 2026-11-22
+* [guzlehttp/psr7](https://github.com/guzzle/psr7) ⭐ 7,925 | 🐛 0 | 🌐 PHP | 📅 2026-11-22
 * [nyholm/psr7](https://github.com/Nyholm/psr7) ⭐ 1,277 | 🐛 6 | 🌐 PHP | 📅 2026-11-22
-* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 556 | 🐛 39 | 🌐 PHP | 📅 2026-11-24
+* [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ⭐ 556 | 🐛 39 | 🌐 PHP | 📅 2026-11-25
 * [slim/http](https://github.com/slimphp/Slim-Http) ⭐ 151 | 🐛 11 | 🌐 PHP | 📅 2026-01-01
 * [httpsoft/http-message](https://github.com/httpsoft/http-message) ⭐ 87 | 🐛 0 | 🌐 PHP | 📅 2025-05-22
 * [sunrise/http-message](https://github.com/sunrise-php/http-message) ⭐ 16 | 🐛 3 | 🌐 PHP | 📅 2026-11-03
@@ -47,11 +47,11 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### Router
 
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 8 | 🌐 PHP | 📅 2026-11-02 - HTTP Router based on PSR-7 and PSR-15
-* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,273 | 🐛 27 | 🌐 PHP | 📅 2026-11-19.
+* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,272 | 🐛 27 | 🌐 PHP | 📅 2026-11-19.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
 * [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 499 | 🐛 3 | 🌐 PHP | 📅 2026-10-31.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
-* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-11-12 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,613 | 🐛 0 | 🌐 PHP | 📅 2026-11-14.
+* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-11-12 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,612 | 🐛 0 | 🌐 PHP | 📅 2026-11-24.
 
 ### Security
 
@@ -59,13 +59,13 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 * [middlewares/csp](https://github.com/middlewares/csp) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Content-Security-Policies (CSP)](https://content-security-policy.com/).
 * [middlewares/honeypot](https://github.com/middlewares/honeypot) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Block spam bots.
 * [middlewares/cors](https://github.com/middlewares/cors) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Manage [Cross-Origin Resource Sharing (CORS)](http://www.w3.org/TR/cors/).
-* [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2026-09-28 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,580 | 🐛 0 | 🌐 PHP | 📅 2026-11-19 for spam prevention.
+* [middlewares/recaptcha](https://github.com/middlewares/recaptcha) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2026-09-28 - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) ⭐ 3,581 | 🐛 0 | 🌐 PHP | 📅 2026-11-19 for spam prevention.
 * [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2023-05-01 - Encrypt cookies with a key
 * [Guard-Core/psr15-guard](https://github.com/Guard-Core/psr15-guard) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-11-17 - PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ### Session
 
-* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 648 | 🐛 6 | 🌐 PHP | 📅 2026-11-20 - Manage sessions without I/O usage (JWT).
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) ⭐ 648 | 🐛 6 | 🌐 PHP | 📅 2026-11-24 - Manage sessions without I/O usage (JWT).
 * [PhpSession](https://github.com/middlewares/php-session) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2025-04-05 - Manage sessions using PHP's native session API.
 * [kodus/session](https://github.com/kodus/session) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-03-27 - Manage sessions in a simple way without the use of PHP's native session handling.
 * [AuraSession](https://github.com/middlewares/aura-session) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2025-04-13 - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session) ⭐ 205 | 🐛 2 | 🌐 PHP | 📅 2026-09-29.
@@ -104,4 +104,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
