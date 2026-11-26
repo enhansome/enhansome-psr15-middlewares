@@ -1,6 +1,6 @@
 # Awesome PSR-15 Middlewares with stars
 
-> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
+> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03 describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
 Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperability Group (*FIG*).
 
@@ -14,13 +14,13 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## References
 
-* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03 - The current standard.
+* [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03 - The current standard.
 * [PHP Framework Interoperability Group website](http://www.php-fig.org/)
 * [psr/http-server-middleware](https://packagist.org/packages/psr/http-server-middleware) - Composer package of common interfaces for PSR-15 HTTP Middlewares.
 
 ## Articles
 
-* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03.
+* [Dependency Inversion and PSR-7 Bodies](https://github.com/shadowhand/blog.shadowhand.me/blob/master/_posts/2016-05-22-dependency-inversion-and-psr-7-bodies.markdown) ⭐ 3 | 🐛 1 | 🌐 Ruby | 📅 2024-08-02 - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03.
 * [PSR-7 Objects Are Not Immutable](http://andrewcarteruk.github.io/programming/2016/05/22/psr-7-is-not-immutable.html) - Description of a serious flaw with the double-pass style of middlewares.
 
 ## Packages
@@ -47,11 +47,11 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 ### Router
 
 * [sunrise/http-router](https://github.com/sunrise-php/http-router) ⭐ 166 | 🐛 8 | 🌐 PHP | 📅 2026-11-02 - HTTP Router based on PSR-7 and PSR-15
-* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,272 | 🐛 27 | 🌐 PHP | 📅 2026-11-19.
+* [middlewares/fast-route](https://github.com/middlewares/fast-route) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2025-03-26 - Use [FastRoute](https://github.com/nikic/FastRoute) ⭐ 5,271 | 🐛 27 | 🌐 PHP | 📅 2026-11-19.
 * [jasny/switch-route](https://github.com/jasny/switch-route) ⭐ 79 | 🐛 1 | 🌐 PHP | 📅 2024-09-03 - Generate a PHP script for faster routing
 * [middlewares/aura-router](https://github.com/middlewares/aura-router) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2025-07-10 - Use [Aura.Router](https://github.com/auraphp/Aura.Router/) ⭐ 499 | 🐛 3 | 🌐 PHP | 📅 2026-10-31.
 * [httpsoft/http-router](https://github.com/httpsoft/http-router) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2024-12-29 - Simple and fast HTTP request router providing PSR-7 and PSR-15.
-* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-11-12 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,612 | 🐛 0 | 🌐 PHP | 📅 2026-11-24.
+* [delolmo/symfony-router](https://github.com/delolmo/symfony-router) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2026-11-12 - Use [symfony/routing](https://github.com/symfony/routing) ⭐ 7,612 | 🐛 0 | 🌐 PHP | 📅 2026-11-25.
 
 ### Security
 
@@ -104,4 +104,4 @@ Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://gi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
