@@ -92,7 +92,7 @@
                 "id": 63238907,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-22T10:41:03Z",
+                "last_commit": "2026-11-26T08:20:59Z",
                 "open_issues": 6,
                 "owner": "Nyholm",
                 "repo": "psr7",
@@ -116,7 +116,7 @@
                 "id": 231147753,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-25T22:46:52Z",
+                "last_commit": "2026-11-27T03:51:28Z",
                 "open_issues": 39,
                 "owner": "laminas",
                 "repo": "laminas-diactoros",
@@ -361,7 +361,7 @@
                 "open_issues": 8,
                 "owner": "sunrise-php",
                 "repo": "http-router",
-                "stars": 166,
+                "stars": 165,
                 "topics": [
                   "api-platform",
                   "api-skeleton",
@@ -735,7 +735,7 @@
                 "id": 42022232,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-24T23:49:53Z",
+                "last_commit": "2026-11-26T11:35:37Z",
                 "open_issues": 6,
                 "owner": "psr7-sessions",
                 "repo": "storageless",
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:51:34.376Z",
+    "last_updated": "2026-11-27T04:54:08.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PSR-15 HTTP Middleware resources",
@@ -1132,7 +1132,7 @@
       "open_issues": 0,
       "owner": "middlewares",
       "repo": "awesome-psr15-middlewares",
-      "stars": 342,
+      "stars": 341,
       "topics": [
         "awesome-list",
         "http",
